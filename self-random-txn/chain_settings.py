@@ -36,12 +36,10 @@ __all__ = ['polygon', 'bsc', 'avalanche']
 
 #template = {
 #            'name':'',
-#            'symbol':'',
 #            'url':'',
 #            'port':'',
 #            'min_value_for_sending':'',
 #            'max_value_for_sending':'',
 #            'explorer_url':'',
 #            'explorer_txn_path':'tx',
-#            'explorer_address_path':'address',
 #            }
